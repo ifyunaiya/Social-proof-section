@@ -1,6 +1,6 @@
 # Social-proof-section
 
-##This is my solution to the front end mentor social proof section challenge.
+This is my solution to the front end mentor social proof section challenge.
 
 I experimented with grid and flexbox, using position: relative to create the ladder effect for the cards. 
 It was quite fun and simple.
