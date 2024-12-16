@@ -6,5 +6,5 @@ I experimented with grid and flexbox, using position: relative to create the lad
 It was quite fun and simple.
 
 Feel free to look at it here: https://ifyunaiya.github.io/Social-proof-section/
- i do believe its a work of beginners front end art web design (if such a thing exists).
+
 
